@@ -93,3 +93,4 @@ Script sẽ bắt đầu gửi loạt log đầu tiên và in output ra màn hì
 4. Dừng Script
 
 Nhấn Ctrl+C để dừng vòng lặp.
+
